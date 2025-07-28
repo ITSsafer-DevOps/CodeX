@@ -1,3 +1,4 @@
+:octocat:
 # CodeX - Terminal Substitution Cipher 📱
 
 ---
