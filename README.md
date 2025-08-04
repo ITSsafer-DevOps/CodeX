@@ -1,7 +1,7 @@
 <div style="background-color: #000; color: #f3f4f6; font-family: 'Inter', sans-serif; padding: 20px;">
     
   <div style="text-align: center; margin-bottom: 30px;">
-    <img src="https://lh3.googleusercontent.com/a/ACg8ocJfH8P4JxSMhmjrC9WLlxGP4f-WpW3OBBug3nKvJP-464Vve8U=s288-c-no" alt="ITSsafer Logo" style="width: 150px; height: 150px; object-fit: contain; border-radius: 50%;" />
+    <img src="https://itssafer.org/logo-itssafer-trans.png" alt="ITSsafer Logo" style="width: 150px; height: 150px; object-fit: contain; border-radius: 50%;" />
     <h1 style="font-size: 2.5rem; font-weight: 700; color: #fff; margin-top: 10px;">CodeX - Terminal Substitution Cipher 📱</h1>
   </div>
   
