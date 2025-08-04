@@ -35,4 +35,30 @@
   <div style="border-bottom: 2px solid #333; margin-top: 30px; margin-bottom: 20px;"></div>
 
   <h2 style="font-size: 1.5rem; font-weight: 600; color: #f3f4f6;">Cesta vývoja 🚀</h2>
-  <p style="text-align: justify; margin-top: 10px;">Tento repozitár obsahuje štyri skompilované APK verzie CodeX, od <code>CodeX-1.0.apk</code> po <code>CodeX-4.0.apk</code>. Tieto odlišné verzie demonštrujú vývoj používateľského rozhrania (frontendu) aplikácie, ukaz
+  <p style="text-align: justify; margin-top: 10px;">Tento repozitár obsahuje štyri skompilované APK verzie CodeX, od <code>CodeX-1.0.apk</code> po <code>CodeX-4.0.apk</code>. Tieto odlišné verzie demonštrujú vývoj používateľského rozhrania (frontendu) aplikácie, ukazujúc jeho pokrok od počiatočných základných rozložení k finálnemu modernému terminálovému dizajnu. Základná logika šifry zostáva vo všetkých verziách konzistentná. <code>CodeX-4.0.apk</code> predstavuje najnovší a najprepracovanejší dizajn.</p>
+  
+  <div style="border-bottom: 2px solid #333; margin-top: 30px; margin-bottom: 20px;"></div>
+
+  <h2 style="font-size: 1.5rem; font-weight: 600; color: #f3f4f6;">Použitie 💡</h2>
+  <ul style="list-style-type: none; padding-left: 0;">
+    <li style="margin-bottom: 10px;"><span style="color: #FF3131; font-weight: bold;">•</span> Spustite aplikáciu.</li>
+    <li style="margin-bottom: 10px;"><span style="color: #FF3131; font-weight: bold;">•</span> Píšte do horného (Kali-inšpirovaného) terminálu.</li>
+    <li><span style="color: #FF3131; font-weight: bold;">•</span> Zašifrovaný text sa zobrazí v dolnom (Ubuntu-inšpirovanom) termináli.</li>
+  </ul>
+  
+  <div style="border-bottom: 2px solid #333; margin-top: 30px; margin-bottom: 20px;"></div>
+
+  <h2 style="font-size: 1.5rem; font-weight: 600; color: #f3f4f6;">Licencia ⚖️</h2>
+  <p style="text-align: justify; margin-top: 10px;">Táto aplikácia, CodeX, je poskytovaná bezplatne na osobné použitie. Nie je open source a všetky práva sú vyhradené autorom. Redistribúcia alebo modifikácia skompilovanej aplikácie (APK) je povolená len na osobné použitie a zdieľanie pôvodného, nemodifikovaného APK súboru. Spätné inžinierstvo alebo neoprávnená distribúcia zdrojového kódu je prísne zakázaná.</p>
+  <p style="text-align: justify; margin-top: 10px;">Copyright © 2025 Kristián Kašník. Všetky práva vyhradené.</p>
+
+  <div style="border-bottom: 2px solid #333; margin-top: 30px; margin-bottom: 20px;"></div>
+
+  <h2 style="font-size: 1.5rem; font-weight: 600; color: #f3f4f6;">Kontakt ✉️</h2>
+  <ul style="list-style-type: none; padding-left: 0;">
+    <li style="margin-bottom: 10px;"><span style="color: #FF3131; font-weight: bold;">•</span> <span style="font-weight: 500;">Autor:</span> Kristián Kašník</li>
+    <li style="margin-bottom: 10px;"><span style="color: #FF3131; font-weight: bold;">•</span> <span style="font-weight: 500;">E-mail:</span> <a href="mailto:itssafer@itssafer.org" style="color: #FF3131; text-decoration: none;">itssafer@itssafer.org</a></li>
+    <li><span style="color: #FF3131; font-weight: bold;">•</span> <span style="font-weight: 500;">GitHub:</span> <a href="https://github.com/ITSsafer-DevOps" style="color: #FF3131; text-decoration: none;">ITSsafer-DevOps</a></li>
+  </ul>
+
+</div>
